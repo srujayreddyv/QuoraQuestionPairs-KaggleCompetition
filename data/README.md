@@ -9,3 +9,5 @@ Please note: as an anti-cheating measure, Kaggle has supplemented the test set w
 2. qid1, qid2 - unique ids of each question (only available in train.csv)
 3. question1, question2 - the full text of each question
 4. is_duplicate - the target variable, set to 1 if question1 and question2 have essentially the same meaning, and 0 otherwise.
+
+[DATASET](https://www.kaggle.com/competitions/quora-question-pairs/data)
