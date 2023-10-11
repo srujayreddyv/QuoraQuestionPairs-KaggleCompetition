@@ -10,4 +10,4 @@ Please note: as an anti-cheating measure, Kaggle has supplemented the test set w
 3. question1, question2 - the full text of each question
 4. is_duplicate - the target variable, set to 1 if question1 and question2 have essentially the same meaning, and 0 otherwise.
 
-[DATASET](https://www.kaggle.com/competitions/quora-question-pairs/data)
+[LINK TO DATASET](https://www.kaggle.com/competitions/quora-question-pairs/data)
